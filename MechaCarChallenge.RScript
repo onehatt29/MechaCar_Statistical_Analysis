@@ -1,0 +1,37 @@
+Deliverable 1 
+
+library(dplyr)
+ MechaCars <- read.csv(file='MechaCar_mpg.csv',check.names=F,stringsAsFactors = F)
+ 
+mpg_fit=lm( mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD + mpg,data=MechaCars) #generate multiple linear regression model
+
+summary(mpg_fit)
+
+Deliverable 2
+MechaCars2 <- read.csv(file='Suspension_Coil.csv',check.names=F,stringsAsFactors = F)
+
+library(tidyverse)
+
+summarize_data <-MechaCars2 %>% group_by() %>% summarize(Mean_PSIe=mean(PSI),Median_PSI=median(PSI),Variance_PSI=var(PSI),SD_PSI=sd(PSI), .groups = 'rowwise'
+
+coil_df <- read.csv(file='Suspension_Coil.csv')
+total_summary <- coil_df %>%summarize(Mean=mean(PSI),Median=median(PSI),Variance=var(PSI),SD=sd(PSI)) #create summary table
+
+group_summary <- coil_df %>% group_by(Manufacturing_Lot) %>% summarize(Mean=mean(PSI),Median=median(PSI),Variance=var(PSI),SD=sd(PSI)) #create summary table
+summary(coil_df)
+
+ summarize_data <- coil_df %>% group_by(condition) %>% summarize(Mean_Mileage=mean(odometer),Maximum_Price=max(price),Num_Vehicles=n(), .groups = 'keep') #create summary table with multiple columns
+ 
+ #T Tests
+population.mean <- 1500
+#Total Ttest
+t.test(coil_df $PSI, mu = population.mean)
+
+lot1 <- subset(coil.table, Manufacturing_Lot == "Lot1")
+lot2 <- subset(coil.table, Manufacturing_Lot == "Lot2")
+lot3 <- subset(coil.table, Manufacturing_Lot == "Lot3")
+# Lot break down.
+t.test(lot1$PSI, mu = population.mean)
+t.test(lot2$PSI, mu = population.mean)
+t.test(lot3$PSI, mu = population.mean)
+                                                                                                        
