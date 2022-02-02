@@ -2,8 +2,8 @@
 ⦁	Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset
 
 
-![ MechaCar_Statistical_Analysis](https://github.com/onehatt29/MechaCar_Statistical_Analysis/blob/c46f68b140e611bf2d53d3c11f85ac8417122268/images/Coefficients.PNG)
-https://github.com/onehatt29/MechaCar_Statistical_Analysis/blob/main/images/Coefficients.PNG
+![ MechaCar_Statistical_Analysis] (https://github.com/onehatt29/MechaCar_Statistical_Analysis/blob/c46f68b140e611bf2d53d3c11f85ac8417122268/images/Coefficients.PNG)
+
 ⦁	
 1.	Vehicle_Weight and Spoiler_angle pr(>|t|) both have coefficients of 0
 ⦁	Is the slope of the linear model considered to be zero? Why or why not?
