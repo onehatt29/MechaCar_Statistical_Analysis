@@ -12,13 +12,15 @@
 
 
 Del 2
-## Summary Statistics on Suspension Coils
-
- 
 
 ![MechaCar_Statistical_Analysis](https://github.com/onehatt29/MechaCar_Statistical_Analysis/blob/main/images/suspen_coil 2.PNG)
 
  
+## Summary Statistics on Suspension Coils
+
+ 
+
+
  
 The overall variance of all the lots indicates that the manufactoring data meets the design specification,
 Based on the data, the Variance Suspension coils for lot 1 and lot 2 meet psi requirements
