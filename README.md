@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 ⦁Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset
 
-![ MechaCar_Statistical_Analysis](https://github.com/onehatt29/MechaCar_Statistical_Analysis/blob/images/Coefficients.PNG)
+       ![ MechaCar_Statistical_Analysis](https://github.com/onehatt29/MechaCar_Statistical_Analysis/blob/images/Coefficients.PNG)
 
 ⦁	
 1.	Vehicle_Weight and Spoiler_angle pr(>|t|) both have coefficients of 0
