@@ -15,7 +15,8 @@ Del 2
 ## Summary Statistics on Suspension Coils
 
  
- ![MechaCar_Statistical_Analysis](https://github.com/onehatt29/MechaCar_Statistical_Analysis/blob/main/images/suspen_coil 2.PNG)
+
+![MechaCar_Statistical_Analysis](https://github.com/onehatt29/MechaCar_Statistical_Analysis/blob/main/images/suspen_coil 2.PNG)
 
  
  
