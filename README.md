@@ -14,7 +14,7 @@
 Del 2
 
 
- ![MechaCar_Statistical_Analysis](https://github.com/onehatt29/MechaCar_Statistical_Analysis/blob/main/images/suspen_coil2.PNG)
+ ![MechaCar_Statistical_Analysis](https://github.com/onehatt29/MechaCar_Statistical_Analysis/blob/main/images/suspen_coill.PNG)
  
  
   ![MechaCar_Statistical_Analysis](https://github.com/onehatt29/MechaCar_Statistical_Analysis/blob/main/images/suspen_coil.PNG)
