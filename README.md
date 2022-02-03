@@ -5,14 +5,9 @@
    ![MechaCar_Statistical_Analysis](https://github.com/onehatt29/MechaCar_Statistical_Analysis/blob/main/images/Coefficients.PNG)
    
 1.	Vehicle_Weight and Spoiler_angle pr(>|t|) both have coefficients of 0
-⦁	Is the slope of the linear model considered to be zero? Why or why not?
-       2.
+⦁	
 1.	
-⦁	Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not? 
-
-
-Del 2
-
+⦁	
 
  ![MechaCar_Statistical_Analysis](https://github.com/onehatt29/MechaCar_Statistical_Analysis/blob/main/images/suspen_coill.PNG)
  
