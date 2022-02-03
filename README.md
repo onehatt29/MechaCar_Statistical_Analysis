@@ -43,11 +43,14 @@ lot3 is slightly under population mean of 1,500 pounds per square inch
  ## Study Design: MechaCar vs Competition
 
 # In  order to compare the MechaCar to the Competition there are certain metrics that are required.
-The study would require data of what must desire from the customer, such as gas milage, comfort, speed, Manufacturer warranty, maintenance cost, and purchase rebates.
-To obtain these metrics I would test gas milage and maintenance cost of the competition.
-The alternative hypothesis of these metrics would be gas milage, maintenance cost and manufacturer warranty. 
+## To compare the MechaCar to the Competition certain metrics are required.
+The study would require data of what is most desired from the customer, such as gas mileage, comfort, speed, Manufacturer warranty, maintenance cost, and purchase rebates.
+To obtain these metrics I would test the gas milage and maintenance cost of the competition.
+The alternative hypothesis of these metrics would be gas mileage, maintenance cost, and manufacturer warranty. 
 
 For this test I would use Hypothesis testing that will test for Specify the Null Hypothesis, Specify the Alternative Hypothesis, Set the Significance Level, Calculate the Test Statistic and Corresponding P-Value
 .
+
+
 
 
