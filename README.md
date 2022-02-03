@@ -40,3 +40,14 @@ The Varience of the suspension coil data set is 62% of a differnce between lot1 
 Lot2 T-test comes in at slightly over the population mean of 1,500 pounds per square inch.
 lot3 is slightly under population mean of 1,500 pounds per square inch
 
+ ## Study Design: MechaCar vs Competition
+
+# In  order to compare the MechaCar to the Competition there are certain metrics that are required.
+The study would require data of what must desire from the customer, such as gas milage, comfort, speed, Manufacturer warranty, maintenance cost, and purchase rebates.
+To obtain these metrics I would test gas milage and maintenance cost of the competition.
+The alternative hypothesis of these metrics would be gas milage, maintenance cost and manufacturer warranty. 
+
+For this test I would use Hypothesis testing that will test for Specify the Null Hypothesis, Specify the Alternative Hypothesis, Set the Significance Level, Calculate the Test Statistic and Corresponding P-Value
+.
+
+
